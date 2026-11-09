@@ -37,3 +37,6 @@
 
 - 🔗 [LinkedIn](https://linkedin.com/in/kasharika-uppal-643844320)
 - 📧 kasharikauppal06@gmail.com
+
+## 📊 My Stats
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=eepyllama&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=eepyllama&include_all_commits=true&theme=radical)
