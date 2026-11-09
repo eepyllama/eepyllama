@@ -9,13 +9,13 @@
 
 ## 🚀 Featured Projects
 
-- 🛍️ **Shop-Ease AI Customer Chatbot**: RAG chatbot with risk scoring and an embeddable widget.
+- 🛍️ **[Shop-Ease AI Customer Chatbot](https://github.com/eepyllama/Shop-Ease-AI-Customer-CB)**: RAG chatbot with risk scoring and an embeddable widget.
   `FastAPI` `LangGraph` `ChromaDB`
-- 💬 **RAG-Based Chatbot**: answers grounded in a knowledge base to reduce hallucination.
+- 💬 **[RAG-Based Chatbot](https://github.com/eepyllama/YOUR-RAG-REPO-NAME)**: answers grounded in a knowledge base to reduce hallucination.
   `LangChain` `Pinecone` `Llama 3.1` `HuggingFace Embeddings` `Streamlit`
-- 🗺️ **Luminary**: learning roadmap platform for CS students.
-  `React` `TypeScript` `Vite` `Tailwind` `shadcn/ui`
-- 📦 **VendorIQ**: vendor management platform demo with AI-powered features.
+- 🗺️ **[Luminary](https://github.com/eepyllama/Luminary2.0)**: AI-powered learning roadmap platform for CS students.
+  `React` `TypeScript` `Vite` `Tailwind` `Supabase` `Gemini`
+- 📦 **[VendorIQ](https://github.com/eepyllama/YOUR-VENDORIQ-REPO-NAME)**: vendor management platform demo with AI-powered features.
 
 ## 🛠️ Tech Stack
 
